@@ -7,3 +7,4 @@ print(week_hours)
 
 print('Testing github')
 print('New branch')
+print('im in master')
